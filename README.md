@@ -28,7 +28,8 @@ This app allows users to answer multiple-choice questions within a time limit an
 ## 📂 Project Structure
 
 ```
-quiz-web-application/
+Quiz-Application/
+│── images/           # Image assets for the project
 │── index.html        # Main UI structure
 │── style.css         # Styling and layout
 │── script.js         # Quiz logic and functionality
@@ -48,7 +49,7 @@ quiz-web-application/
 2. Open the project folder:
 
    ```bash
-   cd quiz-app
+   cd Quiz-Application
    ```
 
 3. Run the project:
